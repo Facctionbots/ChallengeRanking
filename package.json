@@ -1,0 +1,15 @@
+{
+  "name": "facbot",
+  "version": "1.0.0",
+  "description": "Simple Bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dunas",
+  "license": "ISC",
+  "dependencies": {
+    "eris": "^0.8.6",
+    "fs": "0.0.1-security"
+  }
+}
