@@ -1,5 +1,5 @@
 var Eris = require('eris');
-var bot = new Eris("NDcwNzU2ODE3MTg2ODQ4NzY5.Dja_Dw.ZaTBCLltfzTlOYckcNiga_7-vso");
+var bot = new Eris("BOT_TOKEN");
 var fs = require("fs");
 
 //variaveis usadas paras queues
